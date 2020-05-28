@@ -22,3 +22,6 @@
 [submodule "Dependencies/xr/Dependencies/arcore-android-sdk"]
 	path = Dependencies/xr/Dependencies/arcore-android-sdk
 	url = https://github.com/google-ar/arcore-android-sdk
+[submodule "Dependencies/v8-7.5.288.23-4-Linux"]
+	path = Dependencies/v8-7.5.288.23-4-Linux
+	url = https://gitlab.com/Distributed-Compute-Protocol/dcp-foss/v8-7.5.288.23-4.git
